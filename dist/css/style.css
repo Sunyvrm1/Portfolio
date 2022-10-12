@@ -135,6 +135,7 @@ border-radius: 0px;
     border: 1px solid #2F80ED;
     color: #fff;
     margin-right: 10px;
+    cursor: pointer;
 }
 .btn1:hover{
     background-color: #fff;
@@ -146,6 +147,7 @@ border-radius: 0px;
     background-color: #fff;
     border: 1px solid #2F80ED;
     color: #2F80ED;
+    cursor: pointer;
 }
 .btn2:hover{
     background-color: #2F80ED;
